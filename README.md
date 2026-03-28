@@ -1,2 +1,2 @@
 # ML-projects
-This is my repository that contains my ml projects
+This is my repository that contains my ML projects
