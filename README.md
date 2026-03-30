@@ -1,22 +1,30 @@
-# Machine Learning & Deep Learning
+#Machine Learning & Deep Learning
 
-## Overview
+##Overview
 This repository contains my learning and implementation of Machine Learning and Deep Learning concepts.
 
-## Contents
-- Regression models
-- Classification models
-- Neural networks (basic)
-- Practice notebooks
+##Project Attribution
+Machine Learning Models: Implemented and trained by me (Random Forest, Preprocessing, Logic).
 
-## Tech Stack
-Python, NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch
+Frontend / Backend: Generated with the help of AI tools and refined/modified as needed to focus on the core ML implementation.
 
-## Goal
+##Contents
+Regression models
+
+Classification models (Sentinel AI - Crime Prediction)
+
+Neural networks (basic)
+
+Practice notebooks
+
+##Tech Stack
+Python, NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch, Streamlit
+
+##Goal
 To build strong intuition and practical understanding of ML/DL concepts.
 
-## Status
+##Status
 Ongoing
 
-## Author
+##Author
 [Pratick Som] – Learning and building consistently.
