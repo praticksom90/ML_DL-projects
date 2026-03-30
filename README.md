@@ -36,5 +36,4 @@ Ongoing
 
 ## Author
 
-**Pratick Som**
-Learning and building consistently.
+[Pratick Som] - Learning and building consistently.
