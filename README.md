@@ -6,14 +6,14 @@ This repository contains my learning and implementation of Machine Learning and 
 
 ## Project Attribution
 
-* **Machine Learning Models**: Implemented and trained by me (Random Forest, preprocessing, core logic)
-
-* **Frontend / Backend**: Generated with the help of AI tools and refined/modified as needed to keep focus on ML implementation
+* **Machine Learning Models / Logic**: Implemented and trained by me (Model, preprocessing, core logic etc)
+  
+* **Frontend**: Generated with the help of AI tools and refined as needed to keep focus on ML implementation
 
 ## Contents
 
 * Regression models
-* Classification models *(Sentinel AI - Crime Prediction)*
+* Classification models 
 * Neural networks (basic)
 * Practice notebooks
 
@@ -23,7 +23,6 @@ This repository contains my learning and implementation of Machine Learning and 
 * NumPy
 * Pandas
 * Scikit-learn
-* TensorFlow / PyTorch
 * Streamlit
 
 ## Goal
